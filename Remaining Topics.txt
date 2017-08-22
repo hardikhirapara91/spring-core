@@ -1,2 +1,5 @@
 Spring 4 + JMS
 Links: http://websystique.com/spring-4-tutorial/
+
+Spring 4 + Email
+Links: http://websystique.com/spring-4-tutorial/ 
